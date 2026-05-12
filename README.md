@@ -1,7 +1,11 @@
-# 💫 سڵاو، من [زانام] 
+<p align="center">
+  <img src="https://gemini.google.com/share/f9521842e10b" alt="Coding Banner" width="100%" />
+</p>
+# 💫 سڵاو، من زانام 
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote" />
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=ZanaFishy&theme=radical)](https://git.io/streak-stats)
 </p>
 
 ### 👨‍💻 دەربارەی من
@@ -14,25 +18,27 @@
 ---
 
 ### 🛠 زمان و تەکنەلۆژیاکان
-<p align="left">
-  <!-- Python -->
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <!-- Dart -->
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
-  <!-- ReactJS -->
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <!-- JavaScript -->
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <!-- Tailwind CSS -->
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+<!-- Frontend & Tools -->
+<p align="right">
+  <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white" />
+  <img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white" />
 </p>
-
+<!-- Python Ecosystem -->
+<p align="left">
+  <img src="https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pytest-%230A9EDC.svg?style=for-the-badge&logo=pytest&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" />
+</p>
 ---
 
 ### 📊 ئامارەکانی GitHub
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[ZanaFishy]&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[ZanaFishy]&layout=compact&theme=radical" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ZanaFishy&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZanaFishy&layout=compact&theme=radical" alt="Top Langs" />
 </p>
 
 ---
