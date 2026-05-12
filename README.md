@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="<img width="1024" height="572" alt="image" src="https://github.com/user-attachments/assets/b8cfa94f-0a8b-4e4d-afeb-82a464607418" />
+  <img src="blob:https://gemini.google.com/8c236fe4-a05b-418d-ad8b-af3ffbe8c6f4
 " alt="Coding Banner" width="100%" />
 </p>
 # 💫 سڵاو، من زانام 
