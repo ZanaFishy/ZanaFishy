@@ -1,4 +1,4 @@
-# 💫 سڵاو، من [ناوت لێرە بنووسە] 
+# 💫 سڵاو، من [زانام] 
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote" />
@@ -7,7 +7,7 @@
 ### 👨‍💻 دەربارەی من
 من گەشەپێدەرێکی خولیای تەکنەلۆژیام و کار لەسەر پڕۆژەی جۆراوجۆر دەکەم بە بەکارهێنانی زمانە جیاوازەکان. حەز بە فێربوونی شتی نوێ و چارەسەرکردنی کێشە تەکنیکییەکان دەکەم.
 
-- 🔭 ئێستا کار لەسەر **پڕۆژەی [ناوی پڕۆژەکەت]** دەکەم.
+- 🔭 ئێستا کار لەسەر **پڕۆژەی [kurd prime translator]** دەکەم.
 - 🌱 فێری زیاتری **React و Flutter** دەبم.
 - ⚡ ڕاستیەک: من زۆربەی کاتەکانم بە کۆدکردن و گەڕان بەدوای چارەسەرەکاندا بەسەر دەبەم.
 
@@ -31,18 +31,15 @@
 
 ### 📊 ئامارەکانی GitHub
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[ناوەکەت لێرە بنووسە]&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[ناوەکەت لێرە بنووسە]&layout=compact&theme=radical" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=[ZanaFishy]&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[ZanaFishy]&layout=compact&theme=radical" alt="Top Langs" />
 </p>
 
 ---
 
 ### 📫 پەیوەندی
 <p align="left">
-  <a href="mailto:ئیمەیڵەکەت">
+  <a href="mailto:zanafishy@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="لینک">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
