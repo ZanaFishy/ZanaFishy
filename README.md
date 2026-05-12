@@ -3,8 +3,15 @@
 </p>
 # 💫 سڵاو، من زانام 
 
-<p align="center">
+<blockquote dir="rtl">
+"Educators, generals, dieticians, psychologists, and parents program. Armies, students, and some societies are programmed."
+- <span style="color: #ff3377;">Alan Perlis</span>
+</blockquote>
+
+---
+
 [![GitHub Streak](https://streak-stats.demolab.com/?user=ZanaFishy&theme=radical)](https://git.io/streak-stats)
+
 ### 👨‍💻 دەربارەی من
 من گەشەپێدەرێکی خولیای تەکنەلۆژیام و کار لەسەر پڕۆژەی جۆراوجۆر دەکەم بە بەکارهێنانی زمانە جیاوازەکان. حەز بە فێربوونی شتی نوێ و چارەسەرکردنی کێشە تەکنیکییەکان دەکەم.
 
