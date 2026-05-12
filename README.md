@@ -1,12 +1,7 @@
 <p align="right">
   <img src="https://raw.githubusercontent.com/ZanaFishy/ZanaFishy/refs/heads/main/Gemini_Generated_Image_o8w86vo8w86vo8w8.png" alt="Coding Banner" width="100%" />
 </p>
-# 💫 سڵاو، من زانام 
-
-<blockquote align="right" dir="rtl">
-"Educators, generals, dieticians, psychologists, and parents program. Armies, students, and some societies are programmed."
-- <span style="color: #ff3377;">Alan Perlis</span>
-</blockquote>
+# 💫 سڵاو، من زانام
 
 ---
 
