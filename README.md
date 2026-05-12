@@ -1,12 +1,12 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOW91eHNrZjZ0MXd6N204cTM2aGthY3FsenZ0eW5jNjA0b3RhbDQ2OCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/V4NSR1NG2p0KeJJyr5/giphy.gif" alt="Coding Banner" width="100%" />
+  <img src="<img width="1024" height="572" alt="image" src="https://github.com/user-attachments/assets/b8cfa94f-0a8b-4e4d-afeb-82a464607418" />
+" alt="Coding Banner" width="100%" />
 </p>
 # 💫 سڵاو، من زانام 
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote" />
-  [![GitHub Streak](https://streak-stats.demolab.com/?user=ZanaFishy&theme=radical)](https://git.io/streak-stats)
-</p>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=ZanaFishy&theme=radical)](https://git.io/streak-stats)</p>
 
 ### 👨‍💻 دەربارەی من
 من گەشەپێدەرێکی خولیای تەکنەلۆژیام و کار لەسەر پڕۆژەی جۆراوجۆر دەکەم بە بەکارهێنانی زمانە جیاوازەکان. حەز بە فێربوونی شتی نوێ و چارەسەرکردنی کێشە تەکنیکییەکان دەکەم.
@@ -25,7 +25,7 @@
   <img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white" />
 </p>
 <!-- Python Ecosystem -->
-<p align="left">
+<p align="right">
   <img src="https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" />
   <img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" />
   <img src="https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />
@@ -44,7 +44,7 @@
 ---
 
 ### 📫 پەیوەندی
-<p align="left">
+<p align="right">
   <a href="mailto:zanafishy@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
