@@ -4,9 +4,7 @@
 # 💫 سڵاو، من زانام 
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote" />
-[![GitHub Streak](https://streak-stats.demolab.com/?user=ZanaFishy&theme=radical)](https://git.io/streak-stats)</p>
-
+[![GitHub Streak](https://streak-stats.demolab.com/?user=ZanaFishy&theme=radical)](https://git.io/streak-stats)
 ### 👨‍💻 دەربارەی من
 من گەشەپێدەرێکی خولیای تەکنەلۆژیام و کار لەسەر پڕۆژەی جۆراوجۆر دەکەم بە بەکارهێنانی زمانە جیاوازەکان. حەز بە فێربوونی شتی نوێ و چارەسەرکردنی کێشە تەکنیکییەکان دەکەم.
 
