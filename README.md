@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="blob:https://gemini.google.com/8c236fe4-a05b-418d-ad8b-af3ffbe8c6f4" alt="Coding Banner" width="100%" />
+  <img src="https://raw.githubusercontent.com/ZanaFishy/ZanaFishy/refs/heads/main/Gemini_Generated_Image_o8w86vo8w86vo8w8.png" alt="Coding Banner" width="100%" />
 </p>
 # 💫 سڵاو، من زانام 
 
