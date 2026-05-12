@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://gemini.google.com/share/f9521842e10b" alt="Coding Banner" width="100%" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOW91eHNrZjZ0MXd6N204cTM2aGthY3FsenZ0eW5jNjA0b3RhbDQ2OCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/V4NSR1NG2p0KeJJyr5/giphy.gif" alt="Coding Banner" width="100%" />
 </p>
 # 💫 سڵاو، من زانام 
 
