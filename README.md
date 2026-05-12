@@ -1,6 +1,5 @@
 <p align="center">
-  <img src="blob:https://gemini.google.com/8c236fe4-a05b-418d-ad8b-af3ffbe8c6f4
-" alt="Coding Banner" width="100%" />
+  <img src="blob:https://gemini.google.com/8c236fe4-a05b-418d-ad8b-af3ffbe8c6f4" alt="Coding Banner" width="100%" />
 </p>
 # 💫 سڵاو، من زانام 
 
