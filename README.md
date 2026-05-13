@@ -1,4 +1,4 @@
-[![GitHub Streak](https://streak-stats.demolab.com/?user=ZanaFishy&theme=radical)](https://git.io/streak-stats)
+                          [![GitHub Streak](https://streak-stats.demolab.com/?user=ZanaFishy&theme=radical)](https://git.io/streak-stats)
 
 ### 👨‍💻 دەربارەی من
 من گەشەپێدەرێکی خولیای تەکنەلۆژیام و کار لەسەر پڕۆژەی جۆراوجۆر دەکەم بە بەکارهێنانی زمانە جیاوازەکان. حەز بە فێربوونی شتی نوێ و چارەسەرکردنی کێشە تەکنیکییەکان دەکەم.
