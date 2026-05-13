@@ -1,10 +1,3 @@
-<p align="right">
-  <img src="https://raw.githubusercontent.com/ZanaFishy/ZanaFishy/refs/heads/main/Gemini_Generated_Image_o8w86vo8w86vo8w8.png" alt="Coding Banner" width="100%" />
-</p>
-# 💫 سڵاو، من زانام
-
----
-
 [![GitHub Streak](https://streak-stats.demolab.com/?user=ZanaFishy&theme=radical)](https://git.io/streak-stats)
 
 ### 👨‍💻 دەربارەی من
