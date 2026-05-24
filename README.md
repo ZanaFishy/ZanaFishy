@@ -36,30 +36,37 @@ I am a passionate technology developer working on various projects using differe
 
 ### 🛠 Tech Stack | زمان و تەکنەلۆژیاکان
 
-#### Frontend & Mobile
+<div align="center">
+  <h4>Frontend & Mobile</h4>
+  <p>
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=react,flutter,nextjs,materialui,vite&perline=10" />
+    </a>
+  </p>
 
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
-![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
+  <h4>Backend & Python Ecosystem</h4>
+  <p>
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=python,django,flask&perline=10" />
+    </a>
+  </p>
 
-#### Backend & Python Ecosystem
+  <h4>Data Science & Machine Learning</h4>
+  <p>
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=py,tensorflow&perline=10" />
+    </a>
+    <br/>
+    <i>* Pandas & Numpy</i>
+  </p>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-
-#### Data Science & Machine Learning
-
-![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![Numpy](https://img.shields.io/badge/Numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-
-#### Testing & Tools
-
-![Pytest](https://img.shields.io/badge/Pytest-%230A9EDC.svg?style=for-the-badge&logo=pytest&logoColor=white)
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+  <h4>Testing & Tools</h4>
+  <p>
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=git,github,vscode,pytest&perline=10" />
+    </a>
+  </p>
+</div>
 
 ---
 
