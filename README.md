@@ -66,13 +66,19 @@ I am a passionate technology developer working on various projects using differe
 ### 📊 GitHub Stats | ئامارەکانی GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ZanaFishy&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZanaFishy&layout=compact&theme=radical&hide_border=true" alt="Top Langs" />
-  <br />
-  <br />
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com/?user=ZanaFishy&theme=radical&hide_border=true" alt="GitHub Streak" />
-  </a>
+  <table border="0">
+    <tr>
+      <td align="center"><img src="https://github-readme-stats.vercel.app/api?username=ZanaFishy&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" /></td>
+      <td align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZanaFishy&layout=compact&theme=radical&hide_border=true" alt="Top Langs" /></td>
+    </tr>
+    <tr>
+      <td align="center" colspan="2">
+        <a href="https://git.io/streak-stats">
+          <img src="https://streak-stats.demolab.com/?user=ZanaFishy&theme=radical&hide_border=true" alt="GitHub Streak" />
+        </a>
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
