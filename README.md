@@ -5,6 +5,10 @@
 <h1 align="center">Hi there, I'm Zana 👋 | سڵاو، من زانام</h1>
 
 <div align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Passionate+Developer;Software+Engineer;I+love+building+impactful+software" alt="Typing SVG" /></a>
+</div>
+
+<div align="center">
   <a href="mailto:zanafishy@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
