@@ -87,8 +87,3 @@ I am a passionate technology developer working on various projects using differe
     </tr>
   </table>
 </div>
-
----
-<div align="center">
-  <i>Made with ❤️ by Zana</i>
-</div>
