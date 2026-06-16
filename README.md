@@ -34,7 +34,7 @@ I am a passionate technology developer working on various projects using differe
 
 ---
 
-### 🛠 Tech Stack | زمان و تەکنەلۆژیاکان
+### 🛠 Tech Stack | زمانەکان
 
 <div align="center">
   <h4>Frontend & Mobile</h4>
@@ -44,22 +44,13 @@ I am a passionate technology developer working on various projects using differe
     </a>
   </p>
 
-  <h4>Backend & Python Ecosystem</h4>
+  <h4>programming & Python Ecosystem</h4>
   <p>
     <a href="https://skillicons.dev">
       <img src="https://skillicons.dev/icons?i=python,django,flask&perline=10" />
     </a>
   </p>
-
-  <h4>Data Science & Machine Learning</h4>
-  <p>
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=py,tensorflow&perline=10" />
-    </a>
-    <br/>
-    <i>* Pandas & Numpy</i>
-  </p>
-
+  
   <h4>Testing & Tools</h4>
   <p>
     <a href="https://skillicons.dev">
@@ -70,7 +61,7 @@ I am a passionate technology developer working on various projects using differe
 
 ---
 
-### 📊 GitHub Stats | ئامارەکانی GitHub
+### 📊 GitHub Stats | ئامارەکانی
 
 <div align="center">
   <table border="0">
